@@ -1,6 +1,7 @@
 # 🌤️ Weather App  
 
 A simple and interactive weather application built with **HTML, CSS, and JavaScript**.  
+
 <img src="https://github.com/samanes11/weatherApp/blob/master/weather.jpg"/>
 
 ## ✨ Features  
