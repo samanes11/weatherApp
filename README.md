@@ -18,7 +18,7 @@ A simple and interactive weather application built with **HTML, CSS, and JavaScr
 ## 🚀 How to Use  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/samanes11/weatherApp.git
 
 
 This is a uservice project from Turing Research Team.
